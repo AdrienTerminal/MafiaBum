@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Maps/TestLevel.umap",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_player.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_Controller.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_Gamemode.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/BP_Controller.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/MousseRight.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/MousseLeft.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/Imc_Default.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseLeft.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseRight.uasset"
+			]
+		}
+	]
+}
