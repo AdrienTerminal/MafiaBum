@@ -6,11 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/LouisonMap.umap",
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/BP_LPlayer.uasset"
 =======
 				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Maps/TestLevel.umap"
 >>>>>>> Adrien
+=======
+				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/hugomonnet/BP_Nerveux.uasset",
+				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/hugomonnet/BP_Leardeur.uasset",
+				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/hugomonnet/DevMapHugo.umap",
+				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/hugomonnet/BP_playerdev.uasset"
+>>>>>>> Hugo
 			]
 		}
 	]
