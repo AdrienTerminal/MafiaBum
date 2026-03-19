@@ -1780,3 +1780,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.19-08.34.51:089][ 76]LogMeshUtilities: Finished distance field build in 3.6s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, EditorSphere
 [2026.03.19-08.34.51:141][ 79]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 90313.79 ms.
 [2026.03.19-08.34.57:896][589]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, EditorSkySphere
+[2026.03.19-08.35.02:048][914]LogMeshUtilities: Finished distance field build in 1.2s - 42x42x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 96% occupied, 0 triangles, Sphere
+[2026.03.19-08.35.08:893][474]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_5
+[2026.03.19-08.35.10:881][623]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_SkySphere
