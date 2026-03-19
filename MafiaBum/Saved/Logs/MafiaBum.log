@@ -1752,3 +1752,31 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.19-08.34.31:312][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 72.563416
 [2026.03.19-08.34.31:315][ 11]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -793980976
 [2026.03.19-08.34.31:316][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72.563416, Update Interval: 326.924652
+[2026.03.19-08.34.38:769][419]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.44:50604, Sequence=0
+[2026.03.19-08.34.38:769][419]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.44:50604, Sequence=0
+[2026.03.19-08.34.38:807][422]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.38:807][422]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.38:929][430]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 4/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.38:929][430]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 4/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.39:008][433]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/7 of stale message segements from Sender=10.7.61.151:50485, Sequence=0
+[2026.03.19-08.34.39:008][433]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/7 of stale message segements from Sender=10.7.61.151:50485, Sequence=0
+[2026.03.19-08.34.39:008][433]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:102][439]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:102][439]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:220][447]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:463][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.39:463][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 3/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.39:495][464]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:495][464]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.39:568][469]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.39:568][469]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/10 of stale message segements from Sender=10.7.61.201:61207, Sequence=0
+[2026.03.19-08.34.39:896][489]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/5 of stale message segements from Sender=10.7.60.7:60286, Sequence=0
+[2026.03.19-08.34.41:443][569]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 52174.45 ms.
+[2026.03.19-08.34.46:146][858]LogMeshUtilities: Finished distance field build in 3.4s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, Sphere
+[2026.03.19-08.34.48:379][922]LogMeshUtilities: Finished distance field build in 2.4s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 0 triangles, EditorCube
+[2026.03.19-08.34.48:760][925]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 63731.62 ms.
+[2026.03.19-08.34.50:022][  3]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.397 seconds, threshold is 0.300 s), will parallelize next time.
+[2026.03.19-08.34.51:004][ 69]LogMeshUtilities: Finished distance field build in 1.3s - 35x35x49 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 98% occupied, 0 triangles, EditorCylinder
+[2026.03.19-08.34.51:089][ 76]LogMeshUtilities: Finished distance field build in 3.6s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, EditorSphere
+[2026.03.19-08.34.51:141][ 79]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 90313.79 ms.
+[2026.03.19-08.34.57:896][589]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, EditorSkySphere
