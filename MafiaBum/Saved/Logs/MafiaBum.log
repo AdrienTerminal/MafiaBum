@@ -1783,3 +1783,63 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.19-08.35.02:048][914]LogMeshUtilities: Finished distance field build in 1.2s - 42x42x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 96% occupied, 0 triangles, Sphere
 [2026.03.19-08.35.08:893][474]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_5
 [2026.03.19-08.35.10:881][623]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_SkySphere
+[2026.03.19-08.35.16:500][ 56]LogMeshUtilities: Finished distance field build in 10.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.03.19-08.35.17:759][126]LogPSOHitching: Encountered 200 PSO creation hitches so far (60 graphics, 140 compute). 0 of them were precached.
+[2026.03.19-08.35.20:935][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.19-08.35.20:978][318]LogStall: Shutdown...
+[2026.03.19-08.35.20:978][318]LogStall: Shutdown complete.
+[2026.03.19-08.35.21:029][318]LogSlate: Window 'MafiaBum - Unreal Editor' being destroyed
+[2026.03.19-08.35.21:032][318]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.03.19-08.35.21:328][318]Cmd: QUIT_EDITOR
+[2026.03.19-08.35.21:328][319]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.19-08.35.21:335][319]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.19-08.35.21:876][319]LogMeshUtilities: Finished distance field build in 7.8s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.03.19-08.35.22:381][319]LogShaderCompilers: Display: Job TMaterialCHSFNoLightMapPolicyFAnyHitShader(permutation 0, format PCD3D_SM6) compile time exceeded threshold (37.825s)
+[2026.03.19-08.35.27:142][319]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.03.19-08.35.27:143][319]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.19-08.35.27:175][319]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.19-08.35.27:206][319]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-08.35.27:207][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-08.35.27:207][319]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.03.19-08.35.27:218][319]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.19-08.35.27:218][319]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.19-08.35.27:218][319]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.19-08.35.27:225][319]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.19-08.35.27:225][319]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.19-08.35.27:230][319]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.19-08.35.27:242][319]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.19-08.35.27:242][319]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.19-08.35.27:242][319]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2026.03.19-08.35.27:242][319]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.19-08.35.27:242][319]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.19-08.35.27:246][319]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.19-08.35.27:258][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.19-08.35.27:258][319]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.19-08.35.27:273][319]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.19-08.35.27:279][319]LogExit: Preparing to exit.
+[2026.03.19-08.35.27:362][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.19-08.35.28:192][319]LogEditorDataStorage: Deinitializing
+[2026.03.19-08.35.28:289][319]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.19-08.35.28:315][319]LogExit: Editor shut down
+[2026.03.19-08.35.28:319][319]LogExit: Transaction tracking system shut down
+[2026.03.19-08.35.28:476][319]LogExit: Object subsystem successfully closed.
+[2026.03.19-08.35.28:544][319]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.19-08.35.28:872][319]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2026.03.19-08.35.28:878][319]LogMemoryProfiler: Shutdown
+[2026.03.19-08.35.28:878][319]LogNetworkingProfiler: Shutdown
+[2026.03.19-08.35.28:878][319]LoadingProfiler: Shutdown
+[2026.03.19-08.35.28:878][319]LogTimingProfiler: Shutdown
+[2026.03.19-08.35.28:878][319]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.19-08.35.28:878][319]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.19-08.35.29:166][319]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.19-08.35.29:186][319]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.19-08.35.29:187][319]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B96BE8F6B-4F86-9D3C-0BD3-519CC6E070C0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2ff8ed85449b8482ec9fa691caead008%7C594ccdf7a0a14cd5b4f4c4b167534702%7Ca5d8294c-a4f7-4f4b-afd3-9fc9ee456085&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.19-08.35.29:729][319]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.19-08.35.29:729][319]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.19-08.35.29:729][319]RenderDocPlugin: plugin has been unloaded.
+[2026.03.19-08.35.29:739][319]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.19-08.35.29:739][319]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.19-08.35.29:739][319]LogPakFile: Destroying PakPlatformFile
+[2026.03.19-08.35.30:446][319]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.19-08.35.30:478][319]LogExit: Exiting.
+[2026.03.19-08.35.30:504][319]Log file closed, 03/19/26 09:35:30
