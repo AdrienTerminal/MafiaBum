@@ -6,6 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Maps/TestLevel.umap",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_player.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_Gamemode.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/BP_Controller.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/Imc_Default.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseLeft.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseRight.uasset",
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP/BP_bloc.uasset",
+>>>>>>> Adrien
 				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/Blocs/BP_MainBloc.uasset",
 				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/LouisonMap.umap",
 				"C:/Users/hugo.monnet/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/Blocs/BP_Trafiquan.uasset",
@@ -19,6 +30,7 @@
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/SpawnSysteme/BP_SpawnPoint.uasset",
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/SpawnSysteme/BP_SpawnSysteme.uasset",
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/Blocs/BP_MainBloc.uasset",
+<<<<<<< HEAD
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/BP_LController.uasset",
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/BP_LGameMode.uasset",
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/BP_LPlayer.uasset",
@@ -27,14 +39,11 @@
 				"C:/Users/louison.georges/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/louisongeorges/Blocs/MainBloc.uasset",
 				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Maps/TestLevel.umap",
 				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_player.uasset",
+=======
+>>>>>>> Adrien
 				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_Controller.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/BP_Gamemode.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/BP_Controller.uasset",
 				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/MousseRight.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/MousseLeft.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/Imc_Default.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseLeft.uasset",
-				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/IA_MousseRight.uasset"
+				"C:/Users/adrien.terminal/Documents/GitHub/MafiaBum/MafiaBumProject/Content/Developers/adrienterminal/Controller/MousseLeft.uasset"
 			]
 		}
 	]
